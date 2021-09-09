@@ -1,2 +1,1 @@
-# hello-world
-Trying to get started
+print('Hello! World')
